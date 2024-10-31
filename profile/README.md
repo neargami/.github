@@ -4,7 +4,7 @@
 
 **Play** to learn & learn to earn.
 
-In NearGami, it is playing that makes the users learn. You come to just play, but you learn in the process... This is what Gamification is all about.
+In NearGami, it is playing that makes the users learn. You come to just play, but you learn in the process... This is what **Gamification** is all about.
 
 # Reositories
 
